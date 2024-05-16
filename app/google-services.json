@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1065780563980",
+    "firebase_url": "https://punit231-905a8-default-rtdb.firebaseio.com",
+    "project_id": "punit231-905a8",
+    "storage_bucket": "punit231-905a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065780563980:android:9d344ccc5f9b6865691e29",
+        "android_client_info": {
+          "package_name": "com.example.punit231"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDELg5oJLLOy6_93NyM95lHtnUQYvERrhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
